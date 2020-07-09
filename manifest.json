@@ -1,7 +1,7 @@
 {
 "manifest_version": 2,
     "name": "Spellify",
-    "description": "Spellify - replaces the top 10 words of the English language with a Harry Potter spell!",
+    "description": "Spellify - replaces the 10 most commonly used words of the English language with Harry Potter spells!",
     "author": "Tanvi Roy",
     "version": "1.0",
     "icons": { "48": "icon.png"},

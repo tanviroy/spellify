@@ -6,11 +6,6 @@ Today I decided to not work on anything related to the glorious MERN stack and w
 
 This extension doesn't have a popup or any other fancy features (for now) and is an extremely basic chrome extension. 
 
-#### References:
-* [https://en.wikipedia.org/wiki/Maurer_rose](https://en.wikipedia.org/wiki/Maurer_rose)
-* [https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_animations](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_animations)
-* [https://mathworld.wolfram.com/MaurerRose.html](https://mathworld.wolfram.com/MaurerRose.html)
-
 ## Key Learnings
 * Building a chrome extension that works locally
 * Discovering there are *way* more HP spells than I thought

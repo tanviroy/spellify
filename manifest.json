@@ -1,0 +1,19 @@
+{
+"manifest_version": 2,
+    "name": "Spellify",
+    "description": "Spellify - replaces the top 10 words of the English language with a Harry Potter spell!",
+    "author": "Tanvi Roy",
+    "version": "1.0",
+    "icons": { "48": "icon.png"},
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*/*"
+            ],
+            "js": [
+                "content.js"
+            ],
+            "run_at": "document_end"
+        }
+    ]
+}

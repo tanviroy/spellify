@@ -6,6 +6,9 @@ Today I decided to not work on anything related to the glorious MERN stack and w
 
 This extension doesn't have a popup or any other fancy features (for now) and is an extremely basic chrome extension. 
 
+#### Demo
+![spellify-demo](https://user-images.githubusercontent.com/61850850/87034772-048a8280-c206-11ea-99e7-9b344a128df4.gif)
+
 ## Key Learnings
 * Building a chrome extension that works locally
 * Discovering there are *way* more HP spells than I thought
